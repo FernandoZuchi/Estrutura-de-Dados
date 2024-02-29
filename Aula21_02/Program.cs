@@ -10,4 +10,4 @@
     ImprimeSomaIntervalo(menor + 1, maior, soma);
 }
 
-ImprimeSomaIntervalo(3, 5, 0)
+ImprimeSomaIntervalo(3, 5, 0);

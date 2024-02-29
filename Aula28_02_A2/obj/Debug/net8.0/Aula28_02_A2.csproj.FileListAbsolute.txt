@@ -1,0 +1,15 @@
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.AssemblyInfoInputs.cache
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.AssemblyInfo.cs
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.csproj.CoreCompileInputs.cache
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.sourcelink.json
+D:\Estrutura-de-Dados\Aula28_02_A2\bin\Debug\net8.0\Aula28_02_A2.exe
+D:\Estrutura-de-Dados\Aula28_02_A2\bin\Debug\net8.0\Aula28_02_A2.deps.json
+D:\Estrutura-de-Dados\Aula28_02_A2\bin\Debug\net8.0\Aula28_02_A2.runtimeconfig.json
+D:\Estrutura-de-Dados\Aula28_02_A2\bin\Debug\net8.0\Aula28_02_A2.dll
+D:\Estrutura-de-Dados\Aula28_02_A2\bin\Debug\net8.0\Aula28_02_A2.pdb
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.dll
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\refint\Aula28_02_A2.dll
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.pdb
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\Aula28_02_A2.genruntimeconfig.cache
+D:\Estrutura-de-Dados\Aula28_02_A2\obj\Debug\net8.0\ref\Aula28_02_A2.dll

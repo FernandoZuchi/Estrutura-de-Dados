@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estrutura-de-Dados\\Aula21_02\\21_02.csproj": {}
+    "D:\\Estrutura-de-Dados\\Aula28_02_A2\\Aula28_02_A2.csproj": {}
   },
   "projects": {
-    "D:\\Estrutura-de-Dados\\Aula21_02\\21_02.csproj": {
+    "D:\\Estrutura-de-Dados\\Aula28_02_A2\\Aula28_02_A2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estrutura-de-Dados\\Aula21_02\\21_02.csproj",
-        "projectName": "21_02",
-        "projectPath": "D:\\Estrutura-de-Dados\\Aula21_02\\21_02.csproj",
+        "projectUniqueName": "D:\\Estrutura-de-Dados\\Aula28_02_A2\\Aula28_02_A2.csproj",
+        "projectName": "Aula28_02_A2",
+        "projectPath": "D:\\Estrutura-de-Dados\\Aula28_02_A2\\Aula28_02_A2.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Estrutura-de-Dados\\Aula21_02\\obj\\",
+        "outputPath": "D:\\Estrutura-de-Dados\\Aula28_02_A2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

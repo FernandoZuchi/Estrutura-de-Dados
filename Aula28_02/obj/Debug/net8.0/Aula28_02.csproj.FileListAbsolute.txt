@@ -1,0 +1,15 @@
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.AssemblyInfoInputs.cache
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.AssemblyInfo.cs
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.csproj.CoreCompileInputs.cache
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.sourcelink.json
+D:\Estrutura-de-Dados\Aula28_02\bin\Debug\net8.0\Aula28_02.exe
+D:\Estrutura-de-Dados\Aula28_02\bin\Debug\net8.0\Aula28_02.deps.json
+D:\Estrutura-de-Dados\Aula28_02\bin\Debug\net8.0\Aula28_02.runtimeconfig.json
+D:\Estrutura-de-Dados\Aula28_02\bin\Debug\net8.0\Aula28_02.dll
+D:\Estrutura-de-Dados\Aula28_02\bin\Debug\net8.0\Aula28_02.pdb
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.dll
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\refint\Aula28_02.dll
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.pdb
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\Aula28_02.genruntimeconfig.cache
+D:\Estrutura-de-Dados\Aula28_02\obj\Debug\net8.0\ref\Aula28_02.dll

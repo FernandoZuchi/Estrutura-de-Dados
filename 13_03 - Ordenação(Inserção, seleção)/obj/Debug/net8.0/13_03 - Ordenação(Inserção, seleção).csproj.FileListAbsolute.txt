@@ -1,0 +1,15 @@
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\bin\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).exe
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\bin\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).deps.json
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\bin\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).runtimeconfig.json
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\bin\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).dll
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\bin\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).pdb
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).AssemblyInfoInputs.cache
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).AssemblyInfo.cs
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).csproj.CoreCompileInputs.cache
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).sourcelink.json
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).dll
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\refint\13_03 - Ordenação(Inserção, seleção).dll
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).pdb
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\13_03 - Ordenação(Inserção, seleção).genruntimeconfig.cache
+D:\Estrutura de Dados\13_03 - Ordenação(Inserção, seleção)\obj\Debug\net8.0\ref\13_03 - Ordenação(Inserção, seleção).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "21_03 - Exercício monitoria/1.0.0": {
+        "runtime": {
+          "21_03 - Exercício monitoria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_03 - Exercício monitoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

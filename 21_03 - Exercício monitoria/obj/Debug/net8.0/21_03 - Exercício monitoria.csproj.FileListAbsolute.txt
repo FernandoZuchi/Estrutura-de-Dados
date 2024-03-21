@@ -1,0 +1,15 @@
+D:\Estrutura de Dados\21_03 - Exercício monitoria\bin\Debug\net8.0\21_03 - Exercício monitoria.exe
+D:\Estrutura de Dados\21_03 - Exercício monitoria\bin\Debug\net8.0\21_03 - Exercício monitoria.deps.json
+D:\Estrutura de Dados\21_03 - Exercício monitoria\bin\Debug\net8.0\21_03 - Exercício monitoria.runtimeconfig.json
+D:\Estrutura de Dados\21_03 - Exercício monitoria\bin\Debug\net8.0\21_03 - Exercício monitoria.dll
+D:\Estrutura de Dados\21_03 - Exercício monitoria\bin\Debug\net8.0\21_03 - Exercício monitoria.pdb
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.AssemblyInfoInputs.cache
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.AssemblyInfo.cs
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.csproj.CoreCompileInputs.cache
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.sourcelink.json
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.dll
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\refint\21_03 - Exercício monitoria.dll
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.pdb
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\21_03 - Exercício monitoria.genruntimeconfig.cache
+D:\Estrutura de Dados\21_03 - Exercício monitoria\obj\Debug\net8.0\ref\21_03 - Exercício monitoria.dll

@@ -1,0 +1,14 @@
+D:\Estrutura de Dados\06_03 - Ordenação\bin\Debug\net8.0\06_03.exe
+D:\Estrutura de Dados\06_03 - Ordenação\bin\Debug\net8.0\06_03.deps.json
+D:\Estrutura de Dados\06_03 - Ordenação\bin\Debug\net8.0\06_03.runtimeconfig.json
+D:\Estrutura de Dados\06_03 - Ordenação\bin\Debug\net8.0\06_03.dll
+D:\Estrutura de Dados\06_03 - Ordenação\bin\Debug\net8.0\06_03.pdb
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.AssemblyInfoInputs.cache
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.AssemblyInfo.cs
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.csproj.CoreCompileInputs.cache
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.dll
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\refint\06_03.dll
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.pdb
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\06_03.genruntimeconfig.cache
+D:\Estrutura de Dados\06_03 - Ordenação\obj\Debug\net8.0\ref\06_03.dll

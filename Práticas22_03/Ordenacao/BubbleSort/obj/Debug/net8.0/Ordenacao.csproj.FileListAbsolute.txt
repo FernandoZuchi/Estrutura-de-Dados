@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\bin\Debug\net8.0\Ordenacao.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\bin\Debug\net8.0\Ordenacao.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\bin\Debug\net8.0\Ordenacao.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\bin\Debug\net8.0\Ordenacao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\bin\Debug\net8.0\Ordenacao.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\refint\Ordenacao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\Ordenacao.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\obj\Debug\net8.0\ref\Ordenacao.dll

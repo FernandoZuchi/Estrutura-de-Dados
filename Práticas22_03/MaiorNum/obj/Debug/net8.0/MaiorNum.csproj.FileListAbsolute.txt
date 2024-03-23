@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\bin\Debug\net8.0\MaiorNum.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\bin\Debug\net8.0\MaiorNum.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\bin\Debug\net8.0\MaiorNum.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\bin\Debug\net8.0\MaiorNum.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\bin\Debug\net8.0\MaiorNum.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\refint\MaiorNum.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\MaiorNum.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\MaiorNum\obj\Debug\net8.0\ref\MaiorNum.dll

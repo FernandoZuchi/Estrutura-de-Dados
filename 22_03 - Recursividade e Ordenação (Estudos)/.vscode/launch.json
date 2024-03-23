@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Recursividade",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Recursividade\\Recursividade.csproj",
+            "launchConfigurationId": "TargetFramework=;Recursividade"
+        }
+    ]
+}

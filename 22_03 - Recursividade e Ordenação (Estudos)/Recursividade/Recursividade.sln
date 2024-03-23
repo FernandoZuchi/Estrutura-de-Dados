@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaVetor", "Fibonacci\SomaVetor.csproj", "{396A5442-E0C3-46E4-9360-C6CC31931673}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fibonacci", "Fibonacci", "{8FBBA436-3478-4BB3-AE6D-CCB93A0B0482}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fatorial", "Fatorial", "{37439129-B698-4164-8F44-28C8175F19C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiplicacao", "Multiplicacao", "{F791BBF6-6AD9-4474-AAEF-418D0696343F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bin", "bin", "{9D21329E-E440-446C-BA8A-97D38D7352EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{E7F1299E-DA3E-4B89-9734-C62B408D52CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursividade", "Fibonacci\Fatorial\Multiplicacao\bin\Debug\net8.0\Recursividade.csproj", "{E2C16D21-F27D-4844-BFB4-97546772A70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396A5442-E0C3-46E4-9360-C6CC31931673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396A5442-E0C3-46E4-9360-C6CC31931673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396A5442-E0C3-46E4-9360-C6CC31931673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396A5442-E0C3-46E4-9360-C6CC31931673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C16D21-F27D-4844-BFB4-97546772A70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C16D21-F27D-4844-BFB4-97546772A70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C16D21-F27D-4844-BFB4-97546772A70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C16D21-F27D-4844-BFB4-97546772A70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37439129-B698-4164-8F44-28C8175F19C7} = {8FBBA436-3478-4BB3-AE6D-CCB93A0B0482}
+		{F791BBF6-6AD9-4474-AAEF-418D0696343F} = {37439129-B698-4164-8F44-28C8175F19C7}
+		{9D21329E-E440-446C-BA8A-97D38D7352EF} = {F791BBF6-6AD9-4474-AAEF-418D0696343F}
+		{E7F1299E-DA3E-4B89-9734-C62B408D52CB} = {9D21329E-E440-446C-BA8A-97D38D7352EF}
+		{E2C16D21-F27D-4844-BFB4-97546772A70D} = {E7F1299E-DA3E-4B89-9734-C62B408D52CB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CF8CA2-8561-460A-8E87-F33F640E2825}
+	EndGlobalSection
+EndGlobal

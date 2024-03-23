@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj": {}
+    "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Recursividade\\SomaVetor\\SomaVetor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj": {
+    "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Recursividade\\SomaVetor\\SomaVetor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj",
-        "projectName": "Insercao",
-        "projectPath": "c:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Recursividade\\SomaVetor\\SomaVetor.csproj",
+        "projectName": "SomaVetor",
+        "projectPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Recursividade\\SomaVetor\\SomaVetor.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Recursividade\\SomaVetor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj",
-      "projectName": "Insercao",
-      "projectPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\Insercao.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\QuickSort\\QuickSort.csproj",
+      "projectName": "QuickSort",
+      "projectPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\QuickSort\\QuickSort.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\InsertSort\\obj\\",
+      "outputPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\QuickSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"

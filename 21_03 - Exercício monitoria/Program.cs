@@ -13,7 +13,7 @@ internal class Program
     }
     static double Maior(double vetor, int posicao, double maior)
     {
-        if(posicao < 0 || pposicao >= vetor.Length)
+        if(posicao < 0 || posicao >= vetor.Length)
         {
             return maior;
         }

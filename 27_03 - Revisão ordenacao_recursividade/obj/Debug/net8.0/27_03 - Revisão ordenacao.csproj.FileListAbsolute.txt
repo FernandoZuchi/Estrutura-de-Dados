@@ -1,0 +1,15 @@
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\bin\Debug\net8.0\27_03 - Revisão ordenacao.exe
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\bin\Debug\net8.0\27_03 - Revisão ordenacao.deps.json
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\bin\Debug\net8.0\27_03 - Revisão ordenacao.runtimeconfig.json
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\bin\Debug\net8.0\27_03 - Revisão ordenacao.dll
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\bin\Debug\net8.0\27_03 - Revisão ordenacao.pdb
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.AssemblyInfoInputs.cache
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.AssemblyInfo.cs
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.csproj.CoreCompileInputs.cache
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.sourcelink.json
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.dll
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\refint\27_03 - Revisão ordenacao.dll
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.pdb
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\27_03 - Revisão ordenacao.genruntimeconfig.cache
+D:\Estrutura-de-Dados\27_03 - Revisão ordenacao_recursividade\obj\Debug\net8.0\ref\27_03 - Revisão ordenacao.dll

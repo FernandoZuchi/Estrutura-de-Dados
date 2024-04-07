@@ -18,7 +18,7 @@
             {
                 if(vet[i] > vet[i + 1])
                 {
-                    aux = vet[i + 1];
+                    aux = vet[i + 1]; 
                     vet[i + 1] = vet[i];
                     vet[i] = aux;
                     trocou = true;

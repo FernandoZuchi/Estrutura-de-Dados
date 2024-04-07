@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\bin\Debug\net8.0\BubbleSort3.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\bin\Debug\net8.0\BubbleSort3.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\bin\Debug\net8.0\BubbleSort3.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\bin\Debug\net8.0\BubbleSort3.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\bin\Debug\net8.0\BubbleSort3.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\refint\BubbleSort3.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\BubbleSort3.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\BubbleSort3\obj\Debug\net8.0\ref\BubbleSort3.dll

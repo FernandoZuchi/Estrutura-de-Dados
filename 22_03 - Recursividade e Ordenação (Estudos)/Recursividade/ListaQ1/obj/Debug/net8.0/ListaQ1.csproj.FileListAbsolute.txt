@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\bin\Debug\net8.0\ListaQ1.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\bin\Debug\net8.0\ListaQ1.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\bin\Debug\net8.0\ListaQ1.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\bin\Debug\net8.0\ListaQ1.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\bin\Debug\net8.0\ListaQ1.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\refint\ListaQ1.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ListaQ1.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Recursividade\ListaQ1\obj\Debug\net8.0\ref\ListaQ1.dll

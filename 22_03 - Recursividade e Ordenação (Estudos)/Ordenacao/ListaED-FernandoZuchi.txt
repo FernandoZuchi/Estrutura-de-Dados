@@ -1,0 +1,155 @@
+Questão 1: 
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Informe um número inteiro e positivo: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        ImprimeDivisiveis(num);
+    }
+
+    static void ImprimeDivisiveis(int n)
+    {
+        int i = 0;
+
+        // Condição de parada
+        if(i >= n)
+        {
+            return;
+        }
+
+        // Verificando divisíveis
+        if(n % 2 == 0)
+        {
+            Console.WriteLine($"{n} e divisível por 2");
+        }
+
+        if(n % 3 == 0)
+        {
+            Console.WriteLine($"{n} e divisível por 3");
+        }
+
+        ImprimeDivisiveis(n - 1);
+
+    }
+}
+
+Questão 2:
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] vet = {3, -2, -6, 2, 1, -1, -9, -6, -5};
+        Console.WriteLine(Negativos(vet, 0));
+        Imprime(vet);
+    }
+    static int Negativos(int[] vet, int i)
+    {
+        int cont = 0;
+
+        if(i == vet.Length)
+        {
+            return 0;
+        }
+
+        if(vet[i] < 0)
+        {
+            vet[i] *= -1;
+            cont++;
+        }
+
+        return Negativos(vet, i + 1) + cont;
+    }
+
+    static void Imprime(int[] vet)
+    {
+        for(int i = 0; i < vet.Length; i++)
+        {
+            Console.Write(vet[i] + " ");
+        }
+    }
+}
+
+
+Questão 3:
+
+class Program 
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Insira o montante reservado para aposentadoria");
+        double montante = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Insira o valor que pretende retirar por mês");
+        double retirada = Convert.ToDouble(Console.ReadLine());
+        
+        Aposentadoria(montante, retirada, 0);
+    }
+
+    static void Aposentadoria(double montante, double retirada, double meses)
+    {
+
+        if(montante < retirada)
+        {
+            Console.WriteLine("Retirada completa!");
+            Console.WriteLine($"Mês/Meses: {meses}");
+            Console.WriteLine($"Montante restante corrigido: {montante}");
+            return;
+        }
+
+        meses++;
+        montante *= 1 + 0.055;
+        Console.WriteLine($"Mês/Meses: {meses}");
+        Console.WriteLine($"Montante corrigido: {montante}");
+
+
+        Aposentadoria(montante - retirada, retirada, meses);
+    }
+}
+
+
+Questão 4: 
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] vet = {5, 3, 2, 7, 1, 4, 6};
+        BubbleSort(vet);
+        Imprime(vet);
+    }
+
+    static void BubbleSort(int[] vet)
+    {
+        int aux;
+        bool trocou;
+
+        do
+        {
+            trocou = false;
+            for(int i = 0; i < vet.Length - 1; i++)
+            {
+                if(vet[i] > vet[i + 1])
+                {
+                    aux = vet[i];
+                    vet[i] = vet[i + 1];
+                    vet[i + 1] = aux;
+                    trocou = true;
+                }
+            }
+        }
+        while(trocou);
+
+    }
+
+    static void Imprime(int[] vet)
+    {
+        for (int i = 0; i < vet.Length; i++)
+        {
+            Console.Write($"{vet[i]} ");
+        }
+    }
+}

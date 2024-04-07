@@ -1,0 +1,15 @@
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\bin\Debug\net8.0\questao1.exe
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\bin\Debug\net8.0\questao1.deps.json
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\bin\Debug\net8.0\questao1.runtimeconfig.json
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\bin\Debug\net8.0\questao1.dll
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\bin\Debug\net8.0\questao1.pdb
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.AssemblyInfoInputs.cache
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.AssemblyInfo.cs
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.csproj.CoreCompileInputs.cache
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.sourcelink.json
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.dll
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\refint\questao1.dll
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.pdb
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\questao1.genruntimeconfig.cache
+D:\Estrutura-de-Dados\03_04 - Simulado Ordenação e Recursividade\questao1\obj\Debug\net8.0\ref\questao1.dll

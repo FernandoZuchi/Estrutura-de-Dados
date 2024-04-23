@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estrutura de Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj": {}
+    "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj": {}
   },
   "projects": {
-    "D:\\Estrutura de Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj": {
+    "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estrutura de Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj",
         "projectName": "13_03 - Ordenação(Inserção, seleção)",
-        "projectPath": "D:\\Estrutura de Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Estrutura de Dados\\13_03 - Ordenação(Inserção, seleção)\\obj\\",
+        "projectPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\13_03 - Ordenação(Inserção, seleção)\\13_03 - Ordenação(Inserção, seleção).csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\13_03 - Ordenação(Inserção, seleção)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

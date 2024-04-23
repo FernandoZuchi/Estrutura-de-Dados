@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        int[] vet = {5, 2, 7, 9, 6, 3, 1, 10, 8, 4};
+        int[] vet = {5, 2, 7, 9, 6, 3, 1};
         SelectSort(vet);
         Imprime(vet);
     }

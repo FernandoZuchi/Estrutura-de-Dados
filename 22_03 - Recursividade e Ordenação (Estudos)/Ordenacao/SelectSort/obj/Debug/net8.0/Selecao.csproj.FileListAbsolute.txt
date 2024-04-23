@@ -13,3 +13,18 @@ C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\Selecao\obj\De
 C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\Selecao\obj\Debug\net8.0\Selecao.pdb
 C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\Selecao\obj\Debug\net8.0\Selecao.genruntimeconfig.cache
 C:\Users\Home\Desktop\Estrutura-de-Dados\Práticas22_03\Ordenacao\Selecao\obj\Debug\net8.0\ref\Selecao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\bin\Debug\net8.0\Selecao.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\bin\Debug\net8.0\Selecao.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\bin\Debug\net8.0\Selecao.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\bin\Debug\net8.0\Selecao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\bin\Debug\net8.0\Selecao.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\refint\Selecao.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\Selecao.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\22_03 - Recursividade e Ordenação (Estudos)\Ordenacao\SelectSort\obj\Debug\net8.0\ref\Selecao.dll

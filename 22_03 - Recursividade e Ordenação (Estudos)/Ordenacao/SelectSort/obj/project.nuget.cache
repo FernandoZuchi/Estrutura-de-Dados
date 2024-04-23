@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AO+C9HuCpZBuz/FcG6m5T4tW+UcucftbdZ1D7HQ8iDz8367hZaEjllNwo+Xma6b3V5QqAd/E7QGIqKOWtP+gjg==",
+  "dgSpecHash": "CvU1OGS7jLIxfgDbzYf7V6L4Hm5ECKKx0uufw6w0IWrVcdRlgMlqh044OgKv718qamiASjZllGm5cDgsFVaMcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\Práticas22_03\\Ordenacao\\Selecao\\Selecao.csproj",
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Estrutura-de-Dados\\22_03 - Recursividade e Ordenação (Estudos)\\Ordenacao\\SelectSort\\Selecao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

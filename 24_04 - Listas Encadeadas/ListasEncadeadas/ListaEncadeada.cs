@@ -6,6 +6,15 @@ class ListaEncadeada
 
         novoNo.Proximo = primeiro;
         primeiro = novoNo;
+        
+        if(ultimo == null)
+        {
+            primeiro = novoNo;
+        }
+        else
+        {
+            ultimo.Proximo = novoNo;
+        }
     }
 
     public void AdicionarNoFinal(int valor)

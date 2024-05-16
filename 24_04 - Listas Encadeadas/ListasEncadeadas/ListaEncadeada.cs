@@ -4,16 +4,12 @@ class ListaEncadeada
     {
         var novoNo = new No { Valor = valor };
 
-        novoNo.Proximo = primeiro;
-        primeiro = novoNo;
-        
-        if(ultimo == null)
-        {
-            primeiro = novoNo;
-        }
+        if (primeiro == null)
+            primeiro = ultimo = novoNo;
         else
         {
-            ultimo.Proximo = novoNo;
+            novoNo.Proximo = primeiro;
+            primeiro = novoNo;
         }
     }
 
@@ -21,18 +17,12 @@ class ListaEncadeada
     {
         var novoNo = new No { Valor = valor };
 
-        if (primeiro == null)
-            primeiro = novoNo;
+        if (ultimo == null)
+            ultimo = primeiro = novoNo;
         else
         {
-            No ultimo = primeiro;
-
-            while (ultimo.Proximo != null)
-            {
-                ultimo = ultimo.Proximo;
-            }
-
             ultimo.Proximo = novoNo;
+            ultimo = novoNo;
         }
     }
 
@@ -42,6 +32,9 @@ class ListaEncadeada
             throw new Exception("Não é possível remover um elemeno de uma lista vazia.");
 
         primeiro = primeiro.Proximo;
+
+        if (primeiro == null)
+            ultimo = null;
     }
 
     public void RemoverNoFinal()
@@ -63,11 +56,16 @@ class ListaEncadeada
             }
 
             if (penultimo != null)
+            {
                 penultimo.Proximo = null;
+                ultimo = penultimo;
+            }
         }
     }
 
     public No? Primeiro { get { return primeiro; } }
+    public No? Ultimo { get { return ultimo; } }
 
     private No? primeiro = null;
+    private No? ultimo = null;
 }

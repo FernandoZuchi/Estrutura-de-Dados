@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj": {}
+    "D:\\Nandin\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj": {}
   },
   "projects": {
-    "D:\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj": {
+    "D:\\Nandin\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj",
+        "projectUniqueName": "D:\\Nandin\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj",
         "projectName": "ListaContigua2",
-        "projectPath": "D:\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj",
+        "projectPath": "D:\\Nandin\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\ListaContigua2.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\obj\\",
+        "outputPath": "D:\\Nandin\\Estrutura-de-Dados\\24_04 - Listas Encadeadas\\ListasEncadeadas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

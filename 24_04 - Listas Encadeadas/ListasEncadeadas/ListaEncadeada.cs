@@ -1,8 +1,8 @@
-class ListaEncadeada
+class ListaEncadeada<T>
 {
-    public void AdicionarNoInicio(int valor)
+    public void AdicionarNoInicio(T valor)
     {
-        var novoNo = new No { Valor = valor };
+        var novoNo = new No<T> { Valor = valor };
 
         if (primeiro == null)
             primeiro = ultimo = novoNo;
@@ -13,9 +13,9 @@ class ListaEncadeada
         }
     }
 
-    public void AdicionarNoFinal(int valor)
+    public void AdicionarNoFinal(T valor)
     {
-        var novoNo = new No { Valor = valor };
+        var novoNo = new No<T> { Valor = valor };
 
         if (ultimo == null)
             ultimo = primeiro = novoNo;
@@ -48,7 +48,7 @@ class ListaEncadeada
         }
         else
         {
-            No penultimo = primeiro;
+            var penultimo = primeiro;
 
             while (penultimo?.Proximo?.Proximo != null)
             {
@@ -63,9 +63,17 @@ class ListaEncadeada
         }
     }
 
-    public No? Primeiro { get { return primeiro; } }
-    public No? Ultimo { get { return ultimo; } }
+    public void ParaCada(Action<T> visitar)
+    {
+        var atual = primeiro;
 
-    private No? primeiro = null;
-    private No? ultimo = null;
+        while (atual != null)
+        {
+            visitar(atual.Valor);
+            atual = atual.Proximo;
+        }
+    }
+
+    private No<T>? primeiro = null;
+    private No<T>? ultimo = null;
 }

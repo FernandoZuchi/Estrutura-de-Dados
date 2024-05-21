@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\bin\Debug\net8.0\EX8.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\bin\Debug\net8.0\EX8.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\bin\Debug\net8.0\EX8.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\bin\Debug\net8.0\EX8.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\bin\Debug\net8.0\EX8.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\refint\EX8.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\EX8.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX8\obj\Debug\net8.0\ref\EX8.dll

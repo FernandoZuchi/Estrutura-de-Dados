@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.AssemblyInfo.cs
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.sourcelink.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\bin\Debug\net8.0\21_05 - Matrizes.exe
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\bin\Debug\net8.0\21_05 - Matrizes.deps.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\bin\Debug\net8.0\21_05 - Matrizes.runtimeconfig.json
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\bin\Debug\net8.0\21_05 - Matrizes.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\bin\Debug\net8.0\21_05 - Matrizes.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\refint\21_05 - Matrizes.dll
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.pdb
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\21_05 - Matrizes.genruntimeconfig.cache
+C:\Users\Home\Desktop\Estrutura-de-Dados\21_05 - Matrizes\EX3\obj\Debug\net8.0\ref\21_05 - Matrizes.dll

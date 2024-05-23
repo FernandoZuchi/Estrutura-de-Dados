@@ -1,0 +1,15 @@
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\bin\Debug\net8.0\pilha.exe
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\bin\Debug\net8.0\pilha.deps.json
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\bin\Debug\net8.0\pilha.runtimeconfig.json
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\bin\Debug\net8.0\pilha.dll
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\bin\Debug\net8.0\pilha.pdb
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.AssemblyInfoInputs.cache
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.AssemblyInfo.cs
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.csproj.CoreCompileInputs.cache
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.sourcelink.json
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.dll
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\refint\pilha.dll
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.pdb
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\pilha.genruntimeconfig.cache
+D:\Estrutura-de-Dados\22_05 - Pilhas\pilha\obj\Debug\net8.0\ref\pilha.dll

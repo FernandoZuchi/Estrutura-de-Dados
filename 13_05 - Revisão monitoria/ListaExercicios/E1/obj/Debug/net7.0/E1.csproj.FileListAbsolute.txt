@@ -1,0 +1,14 @@
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\bin\Debug\net7.0\E1.exe
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\bin\Debug\net7.0\E1.deps.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\bin\Debug\net7.0\E1.runtimeconfig.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\bin\Debug\net7.0\E1.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\bin\Debug\net7.0\E1.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\refint\E1.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\E1.genruntimeconfig.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E1\obj\Debug\net7.0\ref\E1.dll

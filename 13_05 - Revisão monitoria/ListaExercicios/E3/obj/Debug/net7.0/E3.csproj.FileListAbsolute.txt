@@ -1,0 +1,4 @@
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E3\obj\Debug\net7.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E3\obj\Debug\net7.0\E3.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E3\obj\Debug\net7.0\E3.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\13_05 - Revisão monitoria\ListaExercicios\E3\obj\Debug\net7.0\E3.csproj.CoreCompileInputs.cache

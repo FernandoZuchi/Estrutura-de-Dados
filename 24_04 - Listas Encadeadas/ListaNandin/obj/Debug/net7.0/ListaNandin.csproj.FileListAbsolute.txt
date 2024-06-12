@@ -1,0 +1,14 @@
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\bin\Debug\net7.0\ListaNandin.exe
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\bin\Debug\net7.0\ListaNandin.deps.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\bin\Debug\net7.0\ListaNandin.runtimeconfig.json
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\bin\Debug\net7.0\ListaNandin.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\bin\Debug\net7.0\ListaNandin.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\refint\ListaNandin.dll
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.pdb
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ListaNandin.genruntimeconfig.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\24_04 - Listas Encadeadas\ListaNandin\obj\Debug\net7.0\ref\ListaNandin.dll

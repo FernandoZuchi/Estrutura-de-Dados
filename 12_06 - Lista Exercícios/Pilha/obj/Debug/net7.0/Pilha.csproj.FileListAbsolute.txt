@@ -1,0 +1,4 @@
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\12_06 - Lista Exercícios\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\12_06 - Lista Exercícios\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\12_06 - Lista Exercícios\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\Área de Trabalho\Estrutura-de-Dados\12_06 - Lista Exercícios\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
